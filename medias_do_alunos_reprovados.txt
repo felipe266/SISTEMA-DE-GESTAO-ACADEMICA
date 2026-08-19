@@ -1,0 +1,2 @@
+aluno: davijadeuruim da matricula: 123 tem media: 0.00
+aluno: felipe da matricula: 1 tem media: 5.00
